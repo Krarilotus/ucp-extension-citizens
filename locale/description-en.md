@@ -14,3 +14,6 @@ All support is welcome!
 
 If you have PayPal:
 [!["Support me on Ko-Fi"](https://raw.githubusercontent.com/gynt/ucp-extension-running-units/main/locale/kofi_button_red.png)](https://ko-fi.com/kofigynt)
+
+## Change log
+1.0.1: fixed issue with extension description not showing up
